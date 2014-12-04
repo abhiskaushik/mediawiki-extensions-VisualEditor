@@ -757,7 +757,7 @@ $wgResourceModules += array(
 		'scripts' => array(
 			'lib/ve/src/ui/ve.ui.MobileSurface.js',
 			'lib/ve/src/ui/ve.ui.MobileContext.js',
-			'lib/ve/src/ui/ve.ui.MobileWindowManager.js',
+			'lib/ve/src/ui/windowmanagers/ve.ui.MobileWindowManager.js',
 			'lib/ve/src/ui/widgets/ve.ui.MobileContextOptionWidget.js',
 		),
 		'styles' => array(
